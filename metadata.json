@@ -1,0 +1,6 @@
+{
+  "name": "Tata 1mg — Online Pharmacy, Lab Tests & Doctor Consultations",
+  "description": "India's trusted online pharmacy for genuine medicines, generic substitutes, NABL-certified home lab tests, and 24x7 doctor teleconsultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
